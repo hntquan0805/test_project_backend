@@ -60,12 +60,6 @@ npm run dev
 
 The server will be running at: [http://localhost:3000](http://localhost:3000)
 
-### 7. Build for production
-
-```bash
-npm start
-```
-
 ---
 
 ## Project Structure
