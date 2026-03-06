@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@babel/cli": "^7.28.6",
     "cors": "^2.8.6",
     "csv-parse": "^6.1.0",
     "dotenv": "^17.3.1",
