@@ -23,7 +23,7 @@ app.use((err, req, res, next) => {
 });
 
 app.use(cors({
-  origin: ['https://yourdomain.com', 'http://localhost:5173'],
+  origin: ['https://g-scores-ct9p.onrender.com', 'http://localhost:5173'],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
