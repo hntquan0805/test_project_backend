@@ -20,8 +20,8 @@
 ### 1. Clone repository
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/hntquan0805/test_project_backend.git
+cd backend
 ```
 
 ### 2. Install dependencies
@@ -90,7 +90,7 @@ src/
 
 | Name | Contact |
 |------|---------|
-| Nguyen Van A | email@example.com |
+| Ho Ngoc Trung Quan | hntquan0805@gmail.com |
 
 ---
 
