@@ -12,6 +12,7 @@
 | [npm](https://www.npmjs.com/) | >= 9.x |
 | [Express](https://expressjs.com/) | ^4.x |
 | [Sequelize](https://sequelize.org/) | ^6.x |
+| [MySQL](https://www.mysql.com/) | >= 8.x |
 
 ---
 
